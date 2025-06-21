@@ -1,0 +1,6 @@
+
+#include "resource.h"
+
+
+IDR_DLL1  RCDATA  "..\\build\\Debug_x64\\universal-engine-tool.dll"
+
